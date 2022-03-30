@@ -1,1 +1,3 @@
-my first read me
+#!/bin/bash
+my second read me
+
