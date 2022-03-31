@@ -1,2 +1,2 @@
 #!/bin/bash
-vi chmod 777 hello
+vi chmod 111 hello
